@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q51Pi99TYG8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adamj\\OneDrive\\Dokumenter\\GitHub\\AdamPractisingFSharp\\AdamPractisingFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamj\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512"
+  ],
+  "logs": []
+}
