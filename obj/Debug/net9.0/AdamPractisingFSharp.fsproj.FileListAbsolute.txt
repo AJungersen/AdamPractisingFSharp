@@ -27,3 +27,4 @@ C:\Users\adamj\OneDrive\Dokumenter\GitHub\AdamPractisingFSharp\obj\Debug\net9.0\
 C:\Users\adamj\OneDrive\Dokumenter\GitHub\AdamPractisingFSharp\obj\Debug\net9.0\AdamPractisingFSharp.pdb
 C:\Users\adamj\OneDrive\Dokumenter\GitHub\AdamPractisingFSharp\obj\Debug\net9.0\AdamPractisingFSharp.genruntimeconfig.cache
 C:\Users\adamj\OneDrive\Dokumenter\GitHub\AdamPractisingFSharp\obj\Debug\net9.0\ref\AdamPractisingFSharp.dll
+C:\Users\adamj\OneDrive\Dokumenter\GitHub\AdamPractisingFSharp\obj\Debug\net9.0\AdamPractisingFSharp.sourcelink.json
