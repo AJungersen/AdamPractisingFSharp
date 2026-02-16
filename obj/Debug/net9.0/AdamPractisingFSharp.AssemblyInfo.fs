@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("AdamPractisingFSharp")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48e522172928bf57c02cf142ad8da094ff05680d")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8973080e09484045c7b69e7059fb23431719fdee")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("AdamPractisingFSharp")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("AdamPractisingFSharp")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

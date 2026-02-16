@@ -11,5 +11,5 @@ let main _ =
     printfn "%d" (sumOfList 0 list123)
     printfn "%d" (lengthOfList 0 list123)
     printfn "%d" (largestElement None list123) *)
-    printfn "%s" (CSModelling.coffeeMachine lstActionsVMDFA1 "Zero")
+    printfn "%s" (coffeeMachine lstActionsVMDFA1 "Zero")
     0
